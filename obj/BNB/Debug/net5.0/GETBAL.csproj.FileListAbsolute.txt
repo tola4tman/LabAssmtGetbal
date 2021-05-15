@@ -1,0 +1,16 @@
+C:\Users\Olutola\Desktop\GETBAL\obj\BNB\Debug\net5.0\GETBAL.csprojAssemblyReference.cache
+C:\Users\Olutola\Desktop\GETBAL\obj\BNB\Debug\net5.0\GETBAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olutola\Desktop\GETBAL\obj\BNB\Debug\net5.0\GETBAL.AssemblyInfoInputs.cache
+C:\Users\Olutola\Desktop\GETBAL\obj\BNB\Debug\net5.0\GETBAL.AssemblyInfo.cs
+C:\Users\Olutola\Desktop\GETBAL\obj\BNB\Debug\net5.0\GETBAL.csproj.CoreCompileInputs.cache
+C:\Users\Olutola\Desktop\GETBAL\bin\BNB\Debug\net5.0\GETBAL.exe
+C:\Users\Olutola\Desktop\GETBAL\bin\BNB\Debug\net5.0\GETBAL.deps.json
+C:\Users\Olutola\Desktop\GETBAL\bin\BNB\Debug\net5.0\GETBAL.runtimeconfig.json
+C:\Users\Olutola\Desktop\GETBAL\bin\BNB\Debug\net5.0\GETBAL.runtimeconfig.dev.json
+C:\Users\Olutola\Desktop\GETBAL\bin\BNB\Debug\net5.0\GETBAL.dll
+C:\Users\Olutola\Desktop\GETBAL\bin\BNB\Debug\net5.0\ref\GETBAL.dll
+C:\Users\Olutola\Desktop\GETBAL\bin\BNB\Debug\net5.0\GETBAL.pdb
+C:\Users\Olutola\Desktop\GETBAL\obj\BNB\Debug\net5.0\GETBAL.dll
+C:\Users\Olutola\Desktop\GETBAL\obj\BNB\Debug\net5.0\ref\GETBAL.dll
+C:\Users\Olutola\Desktop\GETBAL\obj\BNB\Debug\net5.0\GETBAL.pdb
+C:\Users\Olutola\Desktop\GETBAL\obj\BNB\Debug\net5.0\GETBAL.genruntimeconfig.cache
